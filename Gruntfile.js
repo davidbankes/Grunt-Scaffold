@@ -10,6 +10,7 @@ module.exports = function(grunt) {
 			sass watch (ruby sass)
 			css live reload
 			grunt reload on edit
+			uglify javascript
 
 	*//*
 		Questions:
